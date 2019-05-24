@@ -1,0 +1,3 @@
+Spark öğreniyorum.
+Hem Python hem de Scala ile Spark kullanmak çok heyecan verici.
+Kurs sonunda hem Spark hem de Python ve Scala yeteneklerimi geliştirmiş olacağım.

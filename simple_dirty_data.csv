@@ -1,0 +1,16 @@
+sirano,isim,yas,cinsiyet,meslek,sehir,aylik_gelir,mal_mulk
+1,Cemal,35,E,Isci,Ankara,3500,araba
+2,ceyda ,42,K,Memur,Kayseri,4200,araba|ev
+3,Timur,30,,Müzüsyen,Istanbul   ,9000,araba|ev|yazlık
+4,Burcu ,29,K,Pazarlamacı,    Ankara,4200,araba
+5,Yasemin,23,K,Pazarlamaci,Bursa,4800,araba
+6, Ali,33,E,Memur,Ankara,4250.0,ev
+7,Dilek,29,K,pazarlamaci,Istanbul,7300,araba|yazlık
+8,Murat,31,E,Müzüsyen,Istanbul,12000,araba|ev|dükkan|yazlık
+9,Ahmet,33,E,Doktor,Ankara,180000,araba|ev|yazlık,ikinci araba
+10,Muhittin,46,E,Berber, Istanbul,12000,araba|ev|dükkan
+11,Hicaziye,47,K,Tuhafiyeci,,4.800,dükkan
+12,    Harun,43,E,Tornacı, Ankara ,4200,araba
+13,hakkı,33,E,memur,Çorum ,3750,ev
+14,Gülizar,37,K,DOKTOR,İzmir,14250,araba,ev,yazlık
+15,Şehmuz,41,E,Müzisyen, Ankara,8700,araba,ev
