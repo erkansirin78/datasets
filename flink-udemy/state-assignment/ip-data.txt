@@ -1,0 +1,861 @@
+id_4037,Claro Americas,590673587832453,BR,www.futurebazar.com,49
+id_1111,NewWave Business,356942786344807,CH,www.amazon.com,71
+id_8259,Vivo,711522563918874,BR,www.flipkart.com,29
+id_3579,Mediacom,835045428396550,US,www.mulberry.com,10
+id_8259,Vivo,711522563918874,BR,www.mulberry.com,30
+id_1111,NewWave Business,356942786344807,CH,www.mulberry.com,6
+id_1772,Verizon,140512001956035,US,www.fasttrack.com,67
+id_1111,NewWave Business,356942786344807,CH,www.infibeam.com,8
+id_4037,Claro Americas,590673587832453,BR,www.americanowl.com,92
+id_4037,Claro Americas,590673587832453,BR,www.fasttrack.com,82
+id_3579,Mediacom,835045428396550,US,www.amazon.com,65
+id_4037,Claro Americas,590673587832453,BR,www.fasttrack.com,67
+id_4037,Claro Americas,590673587832453,BR,www.americanowl.com,29
+id_4037,Claro Americas,590673587832453,BR,www.walmart.com,32
+id_1111,NewWave Business,356942786344807,CH,www.fasttrack.com,50
+id_1111,NewWave Business,356942786344807,CH,www.walmart.com,26
+id_1111,NewWave Business,356942786344807,CH,www.snapdeal.com,33
+id_1111,NewWave Business,356942786344807,CH,www.fasttrack.com,93
+id_4037,Claro Americas,590673587832453,BR,www.fasttrack.com,15
+id_4037,Claro Americas,590673587832453,BR,www.infibeam.com,56
+id_4037,Claro Americas,590673587832453,BR,www.mulberry.com,45
+id_1772,Verizon,140512001956035,US,www.flipkart.com,86
+id_1772,Verizon,140512001956035,US,www.flipkart.com,13
+id_1772,Verizon,140512001956035,US,www.americanowl.com,90
+id_8259,Vivo,711522563918874,BR,www.amazon.com,95
+id_8259,Vivo,711522563918874,BR,www.walmart.com,15
+id_1772,Verizon,140512001956035,US,www.mulberry.com,41
+id_1772,Verizon,140512001956035,US,www.infibeam.com,74
+id_1772,Verizon,140512001956035,US,www.infibeam.com,21
+id_1772,Verizon,140512001956035,US,www.snapdeal.com,31
+id_4037,Claro Americas,590673587832453,BR,www.futurebazar.com,60
+id_4037,Claro Americas,590673587832453,BR,www.amazon.com,37
+id_4037,Claro Americas,590673587832453,BR,www.snapdeal.com,5
+id_4037,Claro Americas,590673587832453,BR,www.fasttrack.com,20
+id_4037,Claro Americas,590673587832453,BR,www.snapdeal.com,83
+id_1772,Verizon,140512001956035,US,www.flipkart.com,77
+id_1772,Verizon,140512001956035,US,www.walmart.com,9
+id_1772,Verizon,140512001956035,US,www.americanowl.com,27
+id_1772,Verizon,140512001956035,US,www.ebay.com,56
+id_1772,Verizon,140512001956035,US,www.futurebazar.com,28
+id_1772,Verizon,140512001956035,US,www.amazon.com,96
+id_4037,Claro Americas,590673587832453,BR,www.walmart.com,9
+id_4037,Claro Americas,590673587832453,BR,www.americanowl.com,85
+id_4037,Claro Americas,590673587832453,BR,www.flipkart.com,18
+id_4037,Claro Americas,590673587832453,BR,www.mulberry.com,70
+id_4037,Claro Americas,590673587832453,BR,www.snapdeal.com,80
+id_4037,Claro Americas,590673587832453,BR,www.flipkart.com,39
+id_4037,Claro Americas,590673587832453,BR,www.snapdeal.com,6
+id_1772,Verizon,140512001956035,US,www.futurebazar.com,81
+id_1772,Verizon,140512001956035,US,www.fasttrack.com,64
+id_1772,Verizon,140512001956035,US,www.mulberry.com,32
+id_1772,Verizon,140512001956035,US,www.mulberry.com,75
+id_1772,Verizon,140512001956035,US,www.flipkart.com,58
+id_1772,Verizon,140512001956035,US,www.amazon.com,98
+id_1772,Verizon,140512001956035,US,www.flipkart.com,25
+id_1111,NewWave Business,356942786344807,CH,www.futurebazar.com,98
+id_1111,NewWave Business,356942786344807,CH,www.flipkart.com,29
+id_1111,NewWave Business,356942786344807,CH,www.ebay.com,68
+id_1111,NewWave Business,356942786344807,CH,www.flipkart.com,37
+id_1111,NewWave Business,356942786344807,CH,www.infibeam.com,91
+id_1111,NewWave Business,356942786344807,CH,www.fasttrack.com,36
+id_1111,NewWave Business,356942786344807,CH,www.ebay.com,25
+id_1111,NewWave Business,356942786344807,CH,www.fasttrack.com,22
+id_1111,NewWave Business,356942786344807,CH,www.americanowl.com,66
+id_1111,NewWave Business,356942786344807,CH,www.infibeam.com,7
+id_1111,NewWave Business,356942786344807,CH,www.snapdeal.com,50
+id_1111,NewWave Business,356942786344807,CH,www.flipkart.com,14
+id_1111,NewWave Business,356942786344807,CH,www.mulberry.com,97
+id_1111,NewWave Business,356942786344807,CH,www.ebay.com,23
+id_3225,Airtel,366749396014169,IN,www.americanowl.com,57
+id_3225,Airtel,366749396014169,IN,www.amazon.com,39
+id_3225,Airtel,366749396014169,IN,www.fasttrack.com,33
+id_3225,Airtel,366749396014169,IN,www.mulberry.com,53
+id_3225,Airtel,366749396014169,IN,www.flipkart.com,43
+id_3225,Airtel,366749396014169,IN,www.walmart.com,52
+id_3225,Airtel,366749396014169,IN,www.fasttrack.com,89
+id_3225,Airtel,366749396014169,IN,www.amazon.com,83
+id_3225,Airtel,366749396014169,IN,www.amazon.com,77
+id_3225,Airtel,366749396014169,IN,www.futurebazar.com,33
+id_3225,Airtel,366749396014169,IN,www.americanowl.com,34
+id_3225,Airtel,366749396014169,IN,www.americanowl.com,13
+id_3225,Airtel,366749396014169,IN,www.amazon.com,59
+id_3225,Airtel,366749396014169,IN,www.ebay.com,58
+id_3225,Airtel,366749396014169,IN,www.fasttrack.com,25
+id_3225,Airtel,366749396014169,IN,www.fasttrack.com,43
+id_3225,Airtel,366749396014169,IN,www.americanowl.com,71
+id_3225,Airtel,366749396014169,IN,www.walmart.com,54
+id_3225,Airtel,366749396014169,IN,www.ebay.com,73
+id_3225,Airtel,366749396014169,IN,www.mulberry.com,93
+id_3225,Airtel,366749396014169,IN,www.mulberry.com,53
+id_3579,Mediacom,835045428396550,US,www.ebay.com,20
+id_3579,Mediacom,835045428396550,US,www.americanowl.com,75
+id_3579,Mediacom,835045428396550,US,www.snapdeal.com,61
+id_3579,Mediacom,835045428396550,US,www.futurebazar.com,6
+id_3579,Mediacom,835045428396550,US,www.fasttrack.com,10
+id_3579,Mediacom,835045428396550,US,www.americanowl.com,61
+id_3579,Mediacom,835045428396550,US,www.walmart.com,69
+id_3579,Mediacom,835045428396550,US,www.snapdeal.com,68
+id_3579,Mediacom,835045428396550,US,www.mulberry.com,53
+id_3579,Mediacom,835045428396550,US,www.amazon.com,99
+id_3579,Mediacom,835045428396550,US,www.flipkart.com,76
+id_3579,Mediacom,835045428396550,US,www.flipkart.com,94
+id_3579,Mediacom,835045428396550,US,www.americanowl.com,52
+id_3579,Mediacom,835045428396550,US,www.americanowl.com,50
+id_3579,Mediacom,835045428396550,US,www.amazon.com,57
+id_3579,Mediacom,835045428396550,US,www.mulberry.com,96
+id_3579,Mediacom,835045428396550,US,www.amazon.com,96
+id_3579,Mediacom,835045428396550,US,www.walmart.com,51
+id_3579,Mediacom,835045428396550,US,www.flipkart.com,25
+id_7015,Cox Communications,149495182298308,US,www.ebay.com,82
+id_7015,Cox Communications,149495182298308,US,www.mulberry.com,100
+id_7015,Cox Communications,149495182298308,US,www.mulberry.com,5
+id_7015,Cox Communications,149495182298308,US,www.mulberry.com,54
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,10
+id_7015,Cox Communications,149495182298308,US,www.flipkart.com,17
+id_7015,Cox Communications,149495182298308,US,www.amazon.com,83
+id_7015,Cox Communications,149495182298308,US,www.snapdeal.com,39
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,40
+id_7015,Cox Communications,149495182298308,US,www.infibeam.com,58
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,28
+id_7015,Cox Communications,149495182298308,US,www.amazon.com,63
+id_7015,Cox Communications,149495182298308,US,www.infibeam.com,31
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,30
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,53
+id_7015,Cox Communications,149495182298308,US,www.mulberry.com,70
+id_7015,Cox Communications,149495182298308,US,www.americanowl.com,57
+id_7015,Cox Communications,149495182298308,US,www.walmart.com,68
+id_7015,Cox Communications,149495182298308,US,www.flipkart.com,35
+id_7015,Cox Communications,149495182298308,US,www.mulberry.com,74
+id_7015,Cox Communications,149495182298308,US,www.ebay.com,65
+id_3936,Oi,262105864493836,BR,www.walmart.com,70
+id_3936,Oi,262105864493836,BR,www.fasttrack.com,71
+id_3936,Oi,262105864493836,BR,www.americanowl.com,100
+id_3936,Oi,262105864493836,BR,www.infibeam.com,45
+id_3936,Oi,262105864493836,BR,www.infibeam.com,75
+id_3936,Oi,262105864493836,BR,www.infibeam.com,49
+id_3936,Oi,262105864493836,BR,www.amazon.com,49
+id_3936,Oi,262105864493836,BR,www.flipkart.com,6
+id_3936,Oi,262105864493836,BR,www.snapdeal.com,36
+id_3936,Oi,262105864493836,BR,www.walmart.com,93
+id_3936,Oi,262105864493836,BR,www.walmart.com,96
+id_3936,Oi,262105864493836,BR,www.ebay.com,61
+id_3936,Oi,262105864493836,BR,www.walmart.com,62
+id_3936,Oi,262105864493836,BR,www.americanowl.com,86
+id_3936,Oi,262105864493836,BR,www.mulberry.com,93
+id_3936,Oi,262105864493836,BR,www.americanowl.com,55
+id_3936,Oi,262105864493836,BR,www.futurebazar.com,79
+id_3936,Oi,262105864493836,BR,www.futurebazar.com,7
+id_3936,Oi,262105864493836,BR,www.amazon.com,84
+id_3936,Oi,262105864493836,BR,www.ebay.com,77
+id_3936,Oi,262105864493836,BR,www.ebay.com,89
+id_8259,Vivo,711522563918874,BR,www.amazon.com,24
+id_8259,Vivo,711522563918874,BR,www.infibeam.com,67
+id_8259,Vivo,711522563918874,BR,www.ebay.com,6
+id_8259,Vivo,711522563918874,BR,www.ebay.com,46
+id_8259,Vivo,711522563918874,BR,www.walmart.com,73
+id_8259,Vivo,711522563918874,BR,www.snapdeal.com,89
+id_8259,Vivo,711522563918874,BR,www.amazon.com,66
+id_8259,Vivo,711522563918874,BR,www.amazon.com,58
+id_8259,Vivo,711522563918874,BR,www.americanowl.com,65
+id_8259,Vivo,711522563918874,BR,www.infibeam.com,66
+id_8259,Vivo,711522563918874,BR,www.fasttrack.com,11
+id_8259,Vivo,711522563918874,BR,www.mulberry.com,19
+id_8259,Vivo,711522563918874,BR,www.amazon.com,88
+id_8259,Vivo,711522563918874,BR,www.ebay.com,26
+id_8259,Vivo,711522563918874,BR,www.mulberry.com,49
+id_8259,Vivo,711522563918874,BR,www.infibeam.com,15
+id_8259,Vivo,711522563918874,BR,www.infibeam.com,58
+id_3403,MTNL,361728276735924,IN,www.fasttrack.com,78
+id_3403,MTNL,361728276735924,IN,www.futurebazar.com,75
+id_3403,MTNL,361728276735924,IN,www.futurebazar.com,83
+id_3403,MTNL,361728276735924,IN,www.snapdeal.com,88
+id_3403,MTNL,361728276735924,IN,www.walmart.com,10
+id_3403,MTNL,361728276735924,IN,www.amazon.com,85
+id_3403,MTNL,361728276735924,IN,www.fasttrack.com,36
+id_3403,MTNL,361728276735924,IN,www.ebay.com,5
+id_3403,MTNL,361728276735924,IN,www.amazon.com,76
+id_3403,MTNL,361728276735924,IN,www.mulberry.com,43
+id_3403,MTNL,361728276735924,IN,www.flipkart.com,28
+id_3403,MTNL,361728276735924,IN,www.snapdeal.com,53
+id_3403,MTNL,361728276735924,IN,www.fasttrack.com,30
+id_3403,MTNL,361728276735924,IN,www.flipkart.com,81
+id_3403,MTNL,361728276735924,IN,www.walmart.com,15
+id_3403,MTNL,361728276735924,IN,www.walmart.com,51
+id_3403,MTNL,361728276735924,IN,www.ebay.com,54
+id_3403,MTNL,361728276735924,IN,www.mulberry.com,26
+id_3403,MTNL,361728276735924,IN,www.walmart.com,6
+id_3403,MTNL,361728276735924,IN,www.mulberry.com,93
+id_3403,MTNL,361728276735924,IN,www.futurebazar.com,94
+id_1551,HughesNet,310887283943519,CH,www.infibeam.com,71
+id_1551,HughesNet,310887283943519,CH,www.fasttrack.com,62
+id_1551,HughesNet,310887283943519,CH,www.walmart.com,63
+id_1551,HughesNet,310887283943519,CH,www.fasttrack.com,19
+id_1551,HughesNet,310887283943519,CH,www.mulberry.com,46
+id_1551,HughesNet,310887283943519,CH,www.futurebazar.com,5
+id_1551,HughesNet,310887283943519,CH,www.walmart.com,22
+id_1551,HughesNet,310887283943519,CH,www.mulberry.com,17
+id_1551,HughesNet,310887283943519,CH,www.walmart.com,50
+id_1551,HughesNet,310887283943519,CH,www.snapdeal.com,25
+id_1551,HughesNet,310887283943519,CH,www.fasttrack.com,46
+id_1551,HughesNet,310887283943519,CH,www.snapdeal.com,25
+id_1551,HughesNet,310887283943519,CH,www.mulberry.com,60
+id_1551,HughesNet,310887283943519,CH,www.snapdeal.com,79
+id_1551,HughesNet,310887283943519,CH,www.amazon.com,24
+id_1551,HughesNet,310887283943519,CH,www.flipkart.com,38
+id_1551,HughesNet,310887283943519,CH,www.mulberry.com,75
+id_1551,HughesNet,310887283943519,CH,www.mulberry.com,56
+id_1551,HughesNet,310887283943519,CH,www.futurebazar.com,7
+id_1551,HughesNet,310887283943519,CH,www.fasttrack.com,83
+id_1551,HughesNet,310887283943519,CH,www.amazon.com,31
+id_5410,Sify,690181942980263,IN,www.infibeam.com,8
+id_5410,Sify,690181942980263,IN,www.flipkart.com,66
+id_5410,Sify,690181942980263,IN,www.walmart.com,86
+id_5410,Sify,690181942980263,IN,www.infibeam.com,93
+id_5410,Sify,690181942980263,IN,www.walmart.com,22
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,53
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,96
+id_5410,Sify,690181942980263,IN,www.mulberry.com,79
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,36
+id_5410,Sify,690181942980263,IN,www.amazon.com,45
+id_5410,Sify,690181942980263,IN,www.mulberry.com,68
+id_5410,Sify,690181942980263,IN,www.walmart.com,99
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,6
+id_5410,Sify,690181942980263,IN,www.amazon.com,74
+id_5410,Sify,690181942980263,IN,www.ebay.com,75
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,38
+id_5410,Sify,690181942980263,IN,www.fasttrack.com,91
+id_5410,Sify,690181942980263,IN,www.fasttrack.com,62
+id_5410,Sify,690181942980263,IN,www.ebay.com,28
+id_5410,Sify,690181942980263,IN,www.amazon.com,66
+id_5410,Sify,690181942980263,IN,www.snapdeal.com,29
+id_7752,MTNL,732811156210346,IN,www.walmart.com,100
+id_7752,MTNL,732811156210346,IN,www.ebay.com,17
+id_7752,MTNL,732811156210346,IN,www.futurebazar.com,28
+id_7752,MTNL,732811156210346,IN,www.ebay.com,50
+id_7752,MTNL,732811156210346,IN,www.mulberry.com,57
+id_7752,MTNL,732811156210346,IN,www.amazon.com,17
+id_7752,MTNL,732811156210346,IN,www.futurebazar.com,81
+id_7752,MTNL,732811156210346,IN,www.flipkart.com,13
+id_7752,MTNL,732811156210346,IN,www.snapdeal.com,31
+id_7752,MTNL,732811156210346,IN,www.americanowl.com,59
+id_7752,MTNL,732811156210346,IN,www.snapdeal.com,62
+id_7752,MTNL,732811156210346,IN,www.mulberry.com,71
+id_7752,MTNL,732811156210346,IN,www.americanowl.com,36
+id_7752,MTNL,732811156210346,IN,www.ebay.com,20
+id_7752,MTNL,732811156210346,IN,www.amazon.com,61
+id_7752,MTNL,732811156210346,IN,www.fasttrack.com,29
+id_7752,MTNL,732811156210346,IN,www.flipkart.com,33
+id_7752,MTNL,732811156210346,IN,www.amazon.com,96
+id_7752,MTNL,732811156210346,IN,www.ebay.com,65
+id_7752,MTNL,732811156210346,IN,www.walmart.com,79
+id_7752,MTNL,732811156210346,IN,www.americanowl.com,52
+id_4493,CenturyLink,185507446253107,US,www.walmart.com,85
+id_4493,CenturyLink,185507446253107,US,www.amazon.com,60
+id_4493,CenturyLink,185507446253107,US,www.walmart.com,41
+id_4493,CenturyLink,185507446253107,US,www.flipkart.com,83
+id_4493,CenturyLink,185507446253107,US,www.fasttrack.com,52
+id_4493,CenturyLink,185507446253107,US,www.amazon.com,51
+id_4493,CenturyLink,185507446253107,US,www.amazon.com,5
+id_4493,CenturyLink,185507446253107,US,www.fasttrack.com,27
+id_4493,CenturyLink,185507446253107,US,www.flipkart.com,55
+id_4493,CenturyLink,185507446253107,US,www.fasttrack.com,82
+id_4493,CenturyLink,185507446253107,US,www.americanowl.com,10
+id_4493,CenturyLink,185507446253107,US,www.infibeam.com,49
+id_4493,CenturyLink,185507446253107,US,www.amazon.com,50
+id_4493,CenturyLink,185507446253107,US,www.walmart.com,62
+id_4493,CenturyLink,185507446253107,US,www.americanowl.com,23
+id_4493,CenturyLink,185507446253107,US,www.walmart.com,59
+id_4493,CenturyLink,185507446253107,US,www.americanowl.com,92
+id_4493,CenturyLink,185507446253107,US,www.futurebazar.com,41
+id_4493,CenturyLink,185507446253107,US,www.futurebazar.com,6
+id_4493,CenturyLink,185507446253107,US,www.mulberry.com,51
+id_4493,CenturyLink,185507446253107,US,www.amazon.com,15
+id_5548,Universo Online,444803072849089,BR,www.americanowl.com,55
+id_5548,Universo Online,444803072849089,BR,www.americanowl.com,14
+id_5548,Universo Online,444803072849089,BR,www.infibeam.com,22
+id_5548,Universo Online,444803072849089,BR,www.ebay.com,53
+id_5548,Universo Online,444803072849089,BR,www.ebay.com,35
+id_5548,Universo Online,444803072849089,BR,www.infibeam.com,60
+id_5548,Universo Online,444803072849089,BR,www.snapdeal.com,77
+id_5548,Universo Online,444803072849089,BR,www.amazon.com,93
+id_5548,Universo Online,444803072849089,BR,www.amazon.com,32
+id_5548,Universo Online,444803072849089,BR,www.walmart.com,83
+id_5548,Universo Online,444803072849089,BR,www.americanowl.com,92
+id_5548,Universo Online,444803072849089,BR,www.americanowl.com,67
+id_5548,Universo Online,444803072849089,BR,www.ebay.com,25
+id_5548,Universo Online,444803072849089,BR,www.fasttrack.com,41
+id_5548,Universo Online,444803072849089,BR,www.mulberry.com,54
+id_5548,Universo Online,444803072849089,BR,www.snapdeal.com,24
+id_5548,Universo Online,444803072849089,BR,www.ebay.com,49
+id_5548,Universo Online,444803072849089,BR,www.futurebazar.com,8
+id_5548,Universo Online,444803072849089,BR,www.amazon.com,40
+id_5548,Universo Online,444803072849089,BR,www.infibeam.com,16
+id_5548,Universo Online,444803072849089,BR,www.walmart.com,62
+id_9328,Cox Communications,932291609761649,US,www.walmart.com,39
+id_9328,Cox Communications,932291609761649,US,www.futurebazar.com,29
+id_9328,Cox Communications,932291609761649,US,www.americanowl.com,88
+id_9328,Cox Communications,932291609761649,US,www.flipkart.com,8
+id_9328,Cox Communications,932291609761649,US,www.fasttrack.com,71
+id_9328,Cox Communications,932291609761649,US,www.ebay.com,41
+id_9328,Cox Communications,932291609761649,US,www.flipkart.com,89
+id_9328,Cox Communications,932291609761649,US,www.ebay.com,53
+id_9328,Cox Communications,932291609761649,US,www.fasttrack.com,5
+id_9328,Cox Communications,932291609761649,US,www.amazon.com,49
+id_9328,Cox Communications,932291609761649,US,www.americanowl.com,57
+id_9328,Cox Communications,932291609761649,US,www.infibeam.com,79
+id_9328,Cox Communications,932291609761649,US,www.ebay.com,92
+id_9328,Cox Communications,932291609761649,US,www.walmart.com,67
+id_9328,Cox Communications,932291609761649,US,www.snapdeal.com,72
+id_9328,Cox Communications,932291609761649,US,www.mulberry.com,20
+id_9328,Cox Communications,932291609761649,US,www.amazon.com,13
+id_9328,Cox Communications,932291609761649,US,www.ebay.com,35
+id_9328,Cox Communications,932291609761649,US,www.americanowl.com,45
+id_9328,Cox Communications,932291609761649,US,www.ebay.com,82
+id_9328,Cox Communications,932291609761649,US,www.americanowl.com,82
+id_6408,BSNL,613083267065280,IN,www.walmart.com,29
+id_6408,BSNL,613083267065280,IN,www.snapdeal.com,99
+id_6408,BSNL,613083267065280,IN,www.americanowl.com,38
+id_6408,BSNL,613083267065280,IN,www.flipkart.com,76
+id_6408,BSNL,613083267065280,IN,www.futurebazar.com,71
+id_6408,BSNL,613083267065280,IN,www.snapdeal.com,78
+id_6408,BSNL,613083267065280,IN,www.snapdeal.com,86
+id_6408,BSNL,613083267065280,IN,www.amazon.com,89
+id_6408,BSNL,613083267065280,IN,www.americanowl.com,91
+id_6408,BSNL,613083267065280,IN,www.walmart.com,67
+id_6408,BSNL,613083267065280,IN,www.infibeam.com,10
+id_6408,BSNL,613083267065280,IN,www.infibeam.com,43
+id_6408,BSNL,613083267065280,IN,www.americanowl.com,43
+id_6408,BSNL,613083267065280,IN,www.snapdeal.com,62
+id_6408,BSNL,613083267065280,IN,www.walmart.com,64
+id_6408,BSNL,613083267065280,IN,www.walmart.com,69
+id_6408,BSNL,613083267065280,IN,www.fasttrack.com,44
+id_6408,BSNL,613083267065280,IN,www.mulberry.com,35
+id_6408,BSNL,613083267065280,IN,www.futurebazar.com,58
+id_6408,BSNL,613083267065280,IN,www.snapdeal.com,69
+id_6408,BSNL,613083267065280,IN,www.flipkart.com,72
+id_3660,HughesNet,677229187245392,CH,www.americanowl.com,72
+id_3660,HughesNet,677229187245392,CH,www.flipkart.com,71
+id_3660,HughesNet,677229187245392,CH,www.mulberry.com,25
+id_3660,HughesNet,677229187245392,CH,www.snapdeal.com,32
+id_3660,HughesNet,677229187245392,CH,www.fasttrack.com,29
+id_3660,HughesNet,677229187245392,CH,www.fasttrack.com,74
+id_3660,HughesNet,677229187245392,CH,www.amazon.com,89
+id_3660,HughesNet,677229187245392,CH,www.amazon.com,35
+id_3660,HughesNet,677229187245392,CH,www.futurebazar.com,61
+id_3660,HughesNet,677229187245392,CH,www.walmart.com,38
+id_3660,HughesNet,677229187245392,CH,www.flipkart.com,7
+id_3660,HughesNet,677229187245392,CH,www.amazon.com,72
+id_3660,HughesNet,677229187245392,CH,www.snapdeal.com,32
+id_3660,HughesNet,677229187245392,CH,www.fasttrack.com,83
+id_3660,HughesNet,677229187245392,CH,www.amazon.com,82
+id_3660,HughesNet,677229187245392,CH,www.mulberry.com,23
+id_3660,HughesNet,677229187245392,CH,www.walmart.com,85
+id_3660,HughesNet,677229187245392,CH,www.mulberry.com,90
+id_3660,HughesNet,677229187245392,CH,www.mulberry.com,30
+id_3660,HughesNet,677229187245392,CH,www.futurebazar.com,96
+id_3660,HughesNet,677229187245392,CH,www.fasttrack.com,50
+id_3207,MTNL,214174388789812,IN,www.mulberry.com,7
+id_3207,MTNL,214174388789812,IN,www.fasttrack.com,5
+id_3207,MTNL,214174388789812,IN,www.amazon.com,96
+id_3207,MTNL,214174388789812,IN,www.ebay.com,10
+id_3207,MTNL,214174388789812,IN,www.americanowl.com,93
+id_3207,MTNL,214174388789812,IN,www.ebay.com,57
+id_3207,MTNL,214174388789812,IN,www.ebay.com,16
+id_3207,MTNL,214174388789812,IN,www.americanowl.com,22
+id_3207,MTNL,214174388789812,IN,www.flipkart.com,99
+id_3207,MTNL,214174388789812,IN,www.americanowl.com,99
+id_3207,MTNL,214174388789812,IN,www.futurebazar.com,9
+id_3207,MTNL,214174388789812,IN,www.ebay.com,17
+id_3207,MTNL,214174388789812,IN,www.fasttrack.com,6
+id_3207,MTNL,214174388789812,IN,www.ebay.com,75
+id_3207,MTNL,214174388789812,IN,www.infibeam.com,18
+id_3207,MTNL,214174388789812,IN,www.infibeam.com,55
+id_3207,MTNL,214174388789812,IN,www.snapdeal.com,80
+id_3207,MTNL,214174388789812,IN,www.walmart.com,88
+id_3207,MTNL,214174388789812,IN,www.fasttrack.com,87
+id_3207,MTNL,214174388789812,IN,www.flipkart.com,69
+id_3207,MTNL,214174388789812,IN,www.americanowl.com,8
+id_7901,AT&T,712653650760229,CH,www.infibeam.com,89
+id_7901,AT&T,712653650760229,CH,www.ebay.com,38
+id_7901,AT&T,712653650760229,CH,www.flipkart.com,53
+id_7901,AT&T,712653650760229,CH,www.futurebazar.com,53
+id_7901,AT&T,712653650760229,CH,www.americanowl.com,91
+id_7901,AT&T,712653650760229,CH,www.infibeam.com,83
+id_7901,AT&T,712653650760229,CH,www.snapdeal.com,21
+id_7901,AT&T,712653650760229,CH,www.fasttrack.com,92
+id_7901,AT&T,712653650760229,CH,www.infibeam.com,16
+id_7901,AT&T,712653650760229,CH,www.amazon.com,73
+id_7901,AT&T,712653650760229,CH,www.snapdeal.com,70
+id_7901,AT&T,712653650760229,CH,www.mulberry.com,24
+id_7901,AT&T,712653650760229,CH,www.fasttrack.com,38
+id_7901,AT&T,712653650760229,CH,www.infibeam.com,63
+id_7901,AT&T,712653650760229,CH,www.futurebazar.com,54
+id_7901,AT&T,712653650760229,CH,www.americanowl.com,99
+id_7901,AT&T,712653650760229,CH,www.flipkart.com,75
+id_7901,AT&T,712653650760229,CH,www.americanowl.com,11
+id_7901,AT&T,712653650760229,CH,www.futurebazar.com,23
+id_7901,AT&T,712653650760229,CH,www.futurebazar.com,6
+id_7901,AT&T,712653650760229,CH,www.americanowl.com,85
+id_4277,Tata Communications,179678411976343,IN,www.ebay.com,66
+id_4277,Tata Communications,179678411976343,IN,www.mulberry.com,20
+id_4277,Tata Communications,179678411976343,IN,www.snapdeal.com,19
+id_4277,Tata Communications,179678411976343,IN,www.mulberry.com,73
+id_4277,Tata Communications,179678411976343,IN,www.amazon.com,81
+id_4277,Tata Communications,179678411976343,IN,www.futurebazar.com,85
+id_4277,Tata Communications,179678411976343,IN,www.fasttrack.com,5
+id_4277,Tata Communications,179678411976343,IN,www.mulberry.com,27
+id_7292,Algar Telecom,344199145268493,BR,www.fasttrack.com,60
+id_7292,Algar Telecom,344199145268493,BR,www.snapdeal.com,83
+id_7292,Algar Telecom,344199145268493,BR,www.mulberry.com,38
+id_7292,Algar Telecom,344199145268493,BR,www.mulberry.com,6
+id_7292,Algar Telecom,344199145268493,BR,www.snapdeal.com,98
+id_7292,Algar Telecom,344199145268493,BR,www.infibeam.com,95
+id_7292,Algar Telecom,344199145268493,BR,www.snapdeal.com,86
+id_7292,Algar Telecom,344199145268493,BR,www.futurebazar.com,14
+id_7292,Algar Telecom,344199145268493,BR,www.amazon.com,20
+id_7292,Algar Telecom,344199145268493,BR,www.ebay.com,30
+id_7292,Algar Telecom,344199145268493,BR,www.futurebazar.com,63
+id_7292,Algar Telecom,344199145268493,BR,www.fasttrack.com,87
+id_7292,Algar Telecom,344199145268493,BR,www.walmart.com,95
+id_7292,Algar Telecom,344199145268493,BR,www.ebay.com,59
+id_7292,Algar Telecom,344199145268493,BR,www.fasttrack.com,44
+id_4277,Tata Communications,179678411976343,IN,www.flipkart.com,8
+id_4277,Tata Communications,179678411976343,IN,www.mulberry.com,73
+id_4277,Tata Communications,179678411976343,IN,www.walmart.com,17
+id_4277,Tata Communications,179678411976343,IN,www.snapdeal.com,67
+id_4277,Tata Communications,179678411976343,IN,www.amazon.com,32
+id_4277,Tata Communications,179678411976343,IN,www.amazon.com,79
+id_4277,Tata Communications,179678411976343,IN,www.walmart.com,21
+id_4277,Tata Communications,179678411976343,IN,www.fasttrack.com,89
+id_4277,Tata Communications,179678411976343,IN,www.flipkart.com,34
+id_4277,Tata Communications,179678411976343,IN,www.flipkart.com,60
+id_4277,Tata Communications,179678411976343,IN,www.ebay.com,37
+id_4277,Tata Communications,179678411976343,IN,www.walmart.com,79
+id_4277,Tata Communications,179678411976343,IN,www.walmart.com,76
+id_7292,Algar Telecom,344199145268493,BR,www.amazon.com,57
+id_7292,Algar Telecom,344199145268493,BR,www.fasttrack.com,17
+id_7292,Algar Telecom,344199145268493,BR,www.amazon.com,79
+id_7292,Algar Telecom,344199145268493,BR,www.walmart.com,82
+id_7292,Algar Telecom,344199145268493,BR,www.fasttrack.com,100
+id_7292,Algar Telecom,344199145268493,BR,www.infibeam.com,15
+id_4291,CenturyLink,511875024536152,US,www.snapdeal.com,55
+id_4291,CenturyLink,511875024536152,US,www.mulberry.com,48
+id_4291,CenturyLink,511875024536152,US,www.mulberry.com,12
+id_4291,CenturyLink,511875024536152,US,www.futurebazar.com,92
+id_4291,CenturyLink,511875024536152,US,www.walmart.com,43
+id_4291,CenturyLink,511875024536152,US,www.ebay.com,64
+id_4291,CenturyLink,511875024536152,US,www.snapdeal.com,47
+id_4291,CenturyLink,511875024536152,US,www.infibeam.com,72
+id_4291,CenturyLink,511875024536152,US,www.flipkart.com,52
+id_4291,CenturyLink,511875024536152,US,www.mulberry.com,94
+id_4291,CenturyLink,511875024536152,US,www.flipkart.com,86
+id_4291,CenturyLink,511875024536152,US,www.flipkart.com,53
+id_4291,CenturyLink,511875024536152,US,www.mulberry.com,81
+id_4291,CenturyLink,511875024536152,US,www.mulberry.com,98
+id_4291,CenturyLink,511875024536152,US,www.ebay.com,94
+id_4291,CenturyLink,511875024536152,US,www.amazon.com,7
+id_4291,CenturyLink,511875024536152,US,www.fasttrack.com,79
+id_4291,CenturyLink,511875024536152,US,www.walmart.com,69
+id_4291,CenturyLink,511875024536152,US,www.ebay.com,69
+id_4291,CenturyLink,511875024536152,US,www.walmart.com,55
+id_4291,CenturyLink,511875024536152,US,www.fasttrack.com,39
+id_1831,Comcast,686098310313386,US,www.walmart.com,77
+id_1831,Comcast,686098310313386,US,www.ebay.com,27
+id_1831,Comcast,686098310313386,US,www.snapdeal.com,51
+id_1831,Comcast,686098310313386,US,www.flipkart.com,71
+id_1831,Comcast,686098310313386,US,www.mulberry.com,13
+id_1831,Comcast,686098310313386,US,www.flipkart.com,39
+id_1831,Comcast,686098310313386,US,www.americanowl.com,87
+id_1831,Comcast,686098310313386,US,www.futurebazar.com,21
+id_1831,Comcast,686098310313386,US,www.futurebazar.com,12
+id_1831,Comcast,686098310313386,US,www.flipkart.com,88
+id_1831,Comcast,686098310313386,US,www.ebay.com,72
+id_1831,Comcast,686098310313386,US,www.americanowl.com,31
+id_1831,Comcast,686098310313386,US,www.walmart.com,14
+id_1831,Comcast,686098310313386,US,www.americanowl.com,67
+id_1831,Comcast,686098310313386,US,www.walmart.com,14
+id_1831,Comcast,686098310313386,US,www.flipkart.com,82
+id_1831,Comcast,686098310313386,US,www.snapdeal.com,6
+id_1831,Comcast,686098310313386,US,www.amazon.com,23
+id_1831,Comcast,686098310313386,US,www.mulberry.com,68
+id_1831,Comcast,686098310313386,US,www.americanowl.com,72
+id_1831,Comcast,686098310313386,US,www.futurebazar.com,81
+id_3015,Airtel,893922114839860,IN,www.infibeam.com,30
+id_3015,Airtel,893922114839860,IN,www.amazon.com,49
+id_3015,Airtel,893922114839860,IN,www.fasttrack.com,50
+id_3015,Airtel,893922114839860,IN,www.ebay.com,19
+id_3015,Airtel,893922114839860,IN,www.flipkart.com,57
+id_3015,Airtel,893922114839860,IN,www.futurebazar.com,9
+id_3015,Airtel,893922114839860,IN,www.futurebazar.com,39
+id_3015,Airtel,893922114839860,IN,www.americanowl.com,47
+id_3015,Airtel,893922114839860,IN,www.walmart.com,47
+id_3015,Airtel,893922114839860,IN,www.futurebazar.com,32
+id_3015,Airtel,893922114839860,IN,www.ebay.com,79
+id_3015,Airtel,893922114839860,IN,www.snapdeal.com,78
+id_3015,Airtel,893922114839860,IN,www.snapdeal.com,86
+id_3015,Airtel,893922114839860,IN,www.walmart.com,33
+id_5948,Sify,115052234031978,IN,www.fasttrack.com,50
+id_5948,Sify,115052234031978,IN,www.amazon.com,75
+id_5948,Sify,115052234031978,IN,www.mulberry.com,88
+id_5948,Sify,115052234031978,IN,www.snapdeal.com,35
+id_5948,Sify,115052234031978,IN,www.mulberry.com,18
+id_5948,Sify,115052234031978,IN,www.fasttrack.com,12
+id_5948,Sify,115052234031978,IN,www.americanowl.com,63
+id_5948,Sify,115052234031978,IN,www.futurebazar.com,45
+id_5948,Sify,115052234031978,IN,www.futurebazar.com,36
+id_5948,Sify,115052234031978,IN,www.fasttrack.com,44
+id_5948,Sify,115052234031978,IN,www.snapdeal.com,90
+id_5948,Sify,115052234031978,IN,www.ebay.com,34
+id_5948,Sify,115052234031978,IN,www.mulberry.com,42
+id_5948,Sify,115052234031978,IN,www.walmart.com,79
+id_5948,Sify,115052234031978,IN,www.americanowl.com,82
+id_5948,Sify,115052234031978,IN,www.mulberry.com,70
+id_5948,Sify,115052234031978,IN,www.americanowl.com,63
+id_5948,Sify,115052234031978,IN,www.infibeam.com,74
+id_5948,Sify,115052234031978,IN,www.ebay.com,20
+id_5948,Sify,115052234031978,IN,www.infibeam.com,63
+id_5948,Sify,115052234031978,IN,www.flipkart.com,14
+id_5271,MTNL,790216069930895,IN,www.mulberry.com,87
+id_5271,MTNL,790216069930895,IN,www.americanowl.com,47
+id_5271,MTNL,790216069930895,IN,www.walmart.com,25
+id_5271,MTNL,790216069930895,IN,www.flipkart.com,15
+id_5271,MTNL,790216069930895,IN,www.ebay.com,29
+id_5271,MTNL,790216069930895,IN,www.fasttrack.com,96
+id_5271,MTNL,790216069930895,IN,www.infibeam.com,24
+id_5271,MTNL,790216069930895,IN,www.flipkart.com,24
+id_5271,MTNL,790216069930895,IN,www.snapdeal.com,48
+id_5271,MTNL,790216069930895,IN,www.americanowl.com,87
+id_5271,MTNL,790216069930895,IN,www.flipkart.com,86
+id_5271,MTNL,790216069930895,IN,www.snapdeal.com,75
+id_5271,MTNL,790216069930895,IN,www.fasttrack.com,83
+id_5271,MTNL,790216069930895,IN,www.futurebazar.com,71
+id_5271,MTNL,790216069930895,IN,www.fasttrack.com,50
+id_5271,MTNL,790216069930895,IN,www.flipkart.com,10
+id_5271,MTNL,790216069930895,IN,www.ebay.com,34
+id_5271,MTNL,790216069930895,IN,www.futurebazar.com,70
+id_5271,MTNL,790216069930895,IN,www.ebay.com,85
+id_5271,MTNL,790216069930895,IN,www.futurebazar.com,71
+id_5271,MTNL,790216069930895,IN,www.walmart.com,86
+id_3843,Mediacom,429317000415811,US,www.infibeam.com,24
+id_3843,Mediacom,429317000415811,US,www.futurebazar.com,63
+id_3843,Mediacom,429317000415811,US,www.snapdeal.com,84
+id_3843,Mediacom,429317000415811,US,www.infibeam.com,11
+id_3843,Mediacom,429317000415811,US,www.ebay.com,59
+id_3843,Mediacom,429317000415811,US,www.ebay.com,51
+id_3843,Mediacom,429317000415811,US,www.americanowl.com,36
+id_3843,Mediacom,429317000415811,US,www.mulberry.com,21
+id_3843,Mediacom,429317000415811,US,www.futurebazar.com,49
+id_3843,Mediacom,429317000415811,US,www.americanowl.com,7
+id_3843,Mediacom,429317000415811,US,www.flipkart.com,93
+id_3843,Mediacom,429317000415811,US,www.walmart.com,23
+id_3843,Mediacom,429317000415811,US,www.walmart.com,33
+id_3843,Mediacom,429317000415811,US,www.snapdeal.com,90
+id_3843,Mediacom,429317000415811,US,www.americanowl.com,44
+id_3843,Mediacom,429317000415811,US,www.americanowl.com,100
+id_3843,Mediacom,429317000415811,US,www.walmart.com,53
+id_3843,Mediacom,429317000415811,US,www.mulberry.com,93
+id_3843,Mediacom,429317000415811,US,www.mulberry.com,99
+id_3843,Mediacom,429317000415811,US,www.futurebazar.com,98
+id_3843,Mediacom,429317000415811,US,www.futurebazar.com,5
+id_8337,MTNL,787963896238185,IN,www.mulberry.com,100
+id_8337,MTNL,787963896238185,IN,www.americanowl.com,69
+id_8337,MTNL,787963896238185,IN,www.ebay.com,56
+id_8337,MTNL,787963896238185,IN,www.mulberry.com,60
+id_8337,MTNL,787963896238185,IN,www.mulberry.com,82
+id_8337,MTNL,787963896238185,IN,www.ebay.com,47
+id_8337,MTNL,787963896238185,IN,www.mulberry.com,5
+id_8337,MTNL,787963896238185,IN,www.futurebazar.com,60
+id_8337,MTNL,787963896238185,IN,www.walmart.com,22
+id_8337,MTNL,787963896238185,IN,www.walmart.com,24
+id_8337,MTNL,787963896238185,IN,www.amazon.com,58
+id_8337,MTNL,787963896238185,IN,www.americanowl.com,97
+id_8337,MTNL,787963896238185,IN,www.snapdeal.com,67
+id_8337,MTNL,787963896238185,IN,www.futurebazar.com,22
+id_6599,BSNL,604871487592957,IN,www.snapdeal.com,88
+id_6599,BSNL,604871487592957,IN,www.mulberry.com,12
+id_3015,Airtel,893922114839860,IN,www.futurebazar.com,38
+id_3015,Airtel,893922114839860,IN,www.americanowl.com,68
+id_3015,Airtel,893922114839860,IN,www.fasttrack.com,41
+id_3015,Airtel,893922114839860,IN,www.flipkart.com,76
+id_3015,Airtel,893922114839860,IN,www.ebay.com,5
+id_3015,Airtel,893922114839860,IN,www.fasttrack.com,83
+id_3015,Airtel,893922114839860,IN,www.snapdeal.com,44
+id_6599,BSNL,604871487592957,IN,www.walmart.com,50
+id_6599,BSNL,604871487592957,IN,www.flipkart.com,63
+id_6599,BSNL,604871487592957,IN,www.mulberry.com,90
+id_6599,BSNL,604871487592957,IN,www.americanowl.com,97
+id_6599,BSNL,604871487592957,IN,www.mulberry.com,62
+id_6599,BSNL,604871487592957,IN,www.amazon.com,14
+id_6599,BSNL,604871487592957,IN,www.amazon.com,53
+id_6599,BSNL,604871487592957,IN,www.amazon.com,42
+id_6599,BSNL,604871487592957,IN,www.ebay.com,31
+id_6599,BSNL,604871487592957,IN,www.fasttrack.com,92
+id_6599,BSNL,604871487592957,IN,www.snapdeal.com,27
+id_6599,BSNL,604871487592957,IN,www.fasttrack.com,30
+id_6599,BSNL,604871487592957,IN,www.fasttrack.com,14
+id_6599,BSNL,604871487592957,IN,www.mulberry.com,95
+id_6599,BSNL,604871487592957,IN,www.infibeam.com,21
+id_6599,BSNL,604871487592957,IN,www.americanowl.com,48
+id_6599,BSNL,604871487592957,IN,www.amazon.com,57
+id_6599,BSNL,604871487592957,IN,www.walmart.com,38
+id_6599,BSNL,604871487592957,IN,www.walmart.com,41
+id_1668,Viasat,702496355029462,CH,www.walmart.com,11
+id_1668,Viasat,702496355029462,CH,www.americanowl.com,41
+id_1668,Viasat,702496355029462,CH,www.flipkart.com,61
+id_1668,Viasat,702496355029462,CH,www.americanowl.com,89
+id_1668,Viasat,702496355029462,CH,www.flipkart.com,9
+id_1668,Viasat,702496355029462,CH,www.walmart.com,35
+id_1668,Viasat,702496355029462,CH,www.americanowl.com,43
+id_1668,Viasat,702496355029462,CH,www.futurebazar.com,55
+id_1668,Viasat,702496355029462,CH,www.fasttrack.com,25
+id_1668,Viasat,702496355029462,CH,www.infibeam.com,72
+id_1668,Viasat,702496355029462,CH,www.walmart.com,44
+id_1668,Viasat,702496355029462,CH,www.infibeam.com,42
+id_1668,Viasat,702496355029462,CH,www.amazon.com,28
+id_1668,Viasat,702496355029462,CH,www.infibeam.com,99
+id_1668,Viasat,702496355029462,CH,www.americanowl.com,98
+id_1668,Viasat,702496355029462,CH,www.amazon.com,65
+id_1668,Viasat,702496355029462,CH,www.flipkart.com,18
+id_1668,Viasat,702496355029462,CH,www.infibeam.com,46
+id_1668,Viasat,702496355029462,CH,www.walmart.com,47
+id_1668,Viasat,702496355029462,CH,www.amazon.com,50
+id_1668,Viasat,702496355029462,CH,www.futurebazar.com,35
+id_5210,Algar Telecom,210081756122936,BR,www.futurebazar.com,84
+id_5210,Algar Telecom,210081756122936,BR,www.flipkart.com,30
+id_5210,Algar Telecom,210081756122936,BR,www.ebay.com,41
+id_5210,Algar Telecom,210081756122936,BR,www.futurebazar.com,93
+id_5210,Algar Telecom,210081756122936,BR,www.infibeam.com,62
+id_5210,Algar Telecom,210081756122936,BR,www.flipkart.com,96
+id_5210,Algar Telecom,210081756122936,BR,www.snapdeal.com,91
+id_5210,Algar Telecom,210081756122936,BR,www.futurebazar.com,92
+id_5210,Algar Telecom,210081756122936,BR,www.walmart.com,32
+id_5210,Algar Telecom,210081756122936,BR,www.americanowl.com,90
+id_5210,Algar Telecom,210081756122936,BR,www.futurebazar.com,82
+id_5210,Algar Telecom,210081756122936,BR,www.walmart.com,91
+id_5210,Algar Telecom,210081756122936,BR,www.ebay.com,52
+id_5210,Algar Telecom,210081756122936,BR,www.fasttrack.com,91
+id_5210,Algar Telecom,210081756122936,BR,www.amazon.com,49
+id_5210,Algar Telecom,210081756122936,BR,www.mulberry.com,94
+id_5210,Algar Telecom,210081756122936,BR,www.infibeam.com,45
+id_5210,Algar Telecom,210081756122936,BR,www.walmart.com,48
+id_5210,Algar Telecom,210081756122936,BR,www.fasttrack.com,75
+id_5210,Algar Telecom,210081756122936,BR,www.amazon.com,20
+id_5210,Algar Telecom,210081756122936,BR,www.snapdeal.com,42
+id_7740,BSNL,185831617995943,IN,www.mulberry.com,67
+id_7740,BSNL,185831617995943,IN,www.flipkart.com,97
+id_7740,BSNL,185831617995943,IN,www.mulberry.com,25
+id_7740,BSNL,185831617995943,IN,www.amazon.com,80
+id_7740,BSNL,185831617995943,IN,www.flipkart.com,59
+id_7740,BSNL,185831617995943,IN,www.snapdeal.com,81
+id_7740,BSNL,185831617995943,IN,www.flipkart.com,43
+id_7740,BSNL,185831617995943,IN,www.futurebazar.com,14
+id_7740,BSNL,185831617995943,IN,www.americanowl.com,99
+id_7740,BSNL,185831617995943,IN,www.futurebazar.com,58
+id_7740,BSNL,185831617995943,IN,www.snapdeal.com,86
+id_8337,MTNL,787963896238185,IN,www.snapdeal.com,82
+id_8337,MTNL,787963896238185,IN,www.futurebazar.com,28
+id_8337,MTNL,787963896238185,IN,www.snapdeal.com,64
+id_8337,MTNL,787963896238185,IN,www.mulberry.com,37
+id_8337,MTNL,787963896238185,IN,www.ebay.com,33
+id_8337,MTNL,787963896238185,IN,www.amazon.com,81
+id_8337,MTNL,787963896238185,IN,www.ebay.com,77
+id_7740,BSNL,185831617995943,IN,www.ebay.com,16
+id_7740,BSNL,185831617995943,IN,www.americanowl.com,24
+id_7740,BSNL,185831617995943,IN,www.ebay.com,40
+id_7740,BSNL,185831617995943,IN,www.americanowl.com,20
+id_7740,BSNL,185831617995943,IN,www.americanowl.com,42
+id_7740,BSNL,185831617995943,IN,www.futurebazar.com,19
+id_7740,BSNL,185831617995943,IN,www.infibeam.com,60
+id_7740,BSNL,185831617995943,IN,www.snapdeal.com,24
+id_7740,BSNL,185831617995943,IN,www.walmart.com,56
+id_7740,BSNL,185831617995943,IN,www.americanowl.com,92
+id_5540,Spectrum Telecom,488861030444793,CH,www.amazon.com,44
+id_5540,Spectrum Telecom,488861030444793,CH,www.americanowl.com,61
+id_5540,Spectrum Telecom,488861030444793,CH,www.infibeam.com,15
+id_5540,Spectrum Telecom,488861030444793,CH,www.amazon.com,62
+id_5540,Spectrum Telecom,488861030444793,CH,www.fasttrack.com,95
+id_5540,Spectrum Telecom,488861030444793,CH,www.fasttrack.com,30
+id_5540,Spectrum Telecom,488861030444793,CH,www.infibeam.com,15
+id_5540,Spectrum Telecom,488861030444793,CH,www.futurebazar.com,17
+id_5540,Spectrum Telecom,488861030444793,CH,www.amazon.com,49
+id_5540,Spectrum Telecom,488861030444793,CH,www.futurebazar.com,57
+id_5540,Spectrum Telecom,488861030444793,CH,www.futurebazar.com,6
+id_5540,Spectrum Telecom,488861030444793,CH,www.americanowl.com,16
+id_5540,Spectrum Telecom,488861030444793,CH,www.futurebazar.com,36
+id_5540,Spectrum Telecom,488861030444793,CH,www.ebay.com,64
+id_5540,Spectrum Telecom,488861030444793,CH,www.infibeam.com,27
+id_5540,Spectrum Telecom,488861030444793,CH,www.amazon.com,15
+id_5540,Spectrum Telecom,488861030444793,CH,www.ebay.com,7
+id_5540,Spectrum Telecom,488861030444793,CH,www.flipkart.com,25
+id_5540,Spectrum Telecom,488861030444793,CH,www.walmart.com,33
+id_5540,Spectrum Telecom,488861030444793,CH,www.ebay.com,44
+id_5540,Spectrum Telecom,488861030444793,CH,www.ebay.com,93
+id_9078,Algar Telecom,167926286048537,BR,www.infibeam.com,39
+id_9078,Algar Telecom,167926286048537,BR,www.amazon.com,54
+id_9078,Algar Telecom,167926286048537,BR,www.snapdeal.com,38
+id_9078,Algar Telecom,167926286048537,BR,www.walmart.com,60
+id_9078,Algar Telecom,167926286048537,BR,www.americanowl.com,18
+id_9078,Algar Telecom,167926286048537,BR,www.infibeam.com,45
+id_9078,Algar Telecom,167926286048537,BR,www.infibeam.com,43
+id_9078,Algar Telecom,167926286048537,BR,www.amazon.com,52
+id_9078,Algar Telecom,167926286048537,BR,www.flipkart.com,54
+id_9078,Algar Telecom,167926286048537,BR,www.mulberry.com,5
+id_9078,Algar Telecom,167926286048537,BR,www.ebay.com,12
+id_9078,Algar Telecom,167926286048537,BR,www.futurebazar.com,49
+id_9078,Algar Telecom,167926286048537,BR,www.flipkart.com,26
+id_9078,Algar Telecom,167926286048537,BR,www.americanowl.com,64
+id_9078,Algar Telecom,167926286048537,BR,www.fasttrack.com,22
+id_9078,Algar Telecom,167926286048537,BR,www.walmart.com,14
+id_9078,Algar Telecom,167926286048537,BR,www.futurebazar.com,61
+id_9078,Algar Telecom,167926286048537,BR,www.amazon.com,28
+id_9078,Algar Telecom,167926286048537,BR,www.americanowl.com,77
+id_9078,Algar Telecom,167926286048537,BR,www.flipkart.com,39
+id_9078,Algar Telecom,167926286048537,BR,www.mulberry.com,89
+id_1222,Airtel,969127303133538,IN,www.infibeam.com,84
+id_1222,Airtel,969127303133538,IN,www.walmart.com,47
+id_1222,Airtel,969127303133538,IN,www.futurebazar.com,46
+id_1222,Airtel,969127303133538,IN,www.flipkart.com,84
+id_1222,Airtel,969127303133538,IN,www.futurebazar.com,9
+id_1222,Airtel,969127303133538,IN,www.infibeam.com,28
+id_1222,Airtel,969127303133538,IN,www.americanowl.com,27
+id_1222,Airtel,969127303133538,IN,www.flipkart.com,73
+id_1222,Airtel,969127303133538,IN,www.fasttrack.com,15
+id_1222,Airtel,969127303133538,IN,www.fasttrack.com,79
+id_1222,Airtel,969127303133538,IN,www.futurebazar.com,61
+id_1222,Airtel,969127303133538,IN,www.mulberry.com,84
+id_1222,Airtel,969127303133538,IN,www.snapdeal.com,44
+id_1222,Airtel,969127303133538,IN,www.fasttrack.com,62
+id_1222,Airtel,969127303133538,IN,www.americanowl.com,19
+id_1222,Airtel,969127303133538,IN,www.amazon.com,14
+id_1222,Airtel,969127303133538,IN,www.americanowl.com,20
+id_1222,Airtel,969127303133538,IN,www.fasttrack.com,20
+id_1222,Airtel,969127303133538,IN,www.snapdeal.com,83
+id_1222,Airtel,969127303133538,IN,www.walmart.com,9
+id_1222,Airtel,969127303133538,IN,www.americanowl.com,85
+id_2989,CenturyLink,600121511430409,US,www.flipkart.com,18
+id_2989,CenturyLink,600121511430409,US,www.mulberry.com,70
+id_2989,CenturyLink,600121511430409,US,www.snapdeal.com,80
+id_2989,CenturyLink,600121511430409,US,www.flipkart.com,39
+id_2989,CenturyLink,600121511430409,US,www.snapdeal.com,6
+id_2989,CenturyLink,600121511430409,US,www.futurebazar.com,81
+id_2989,CenturyLink,600121511430409,US,www.flipkart.com,86
+id_2989,CenturyLink,600121511430409,US,www.flipkart.com,13
+id_2989,CenturyLink,600121511430409,US,www.americanowl.com,90
+id_2989,CenturyLink,600121511430409,US,www.mulberry.com,41
+id_2989,CenturyLink,600121511430409,US,www.fasttrack.com,67
+id_2989,CenturyLink,600121511430409,US,www.infibeam.com,74
+id_2989,CenturyLink,600121511430409,US,www.infibeam.com,21
+id_2989,CenturyLink,600121511430409,US,www.snapdeal.com,31
+id_2989,CenturyLink,600121511430409,US,www.fasttrack.com,64
+id_2989,CenturyLink,600121511430409,US,www.mulberry.com,32
+id_2989,CenturyLink,600121511430409,US,www.mulberry.com,75
+id_2989,CenturyLink,600121511430409,US,www.flipkart.com,77
+id_2989,CenturyLink,600121511430409,US,www.walmart.com,9
+id_2989,CenturyLink,600121511430409,US,www.americanowl.com,27
+id_2989,CenturyLink,600121511430409,US,www.ebay.com,56
+id_1417,TDS Telecom,274244190721618,US,www.futurebazar.com,28
+id_1417,TDS Telecom,274244190721618,US,www.amazon.com,96
+id_1417,TDS Telecom,274244190721618,US,www.flipkart.com,58
+id_1417,TDS Telecom,274244190721618,US,www.amazon.com,98
+id_1417,TDS Telecom,274244190721618,US,www.flipkart.com,25
+id_1417,TDS Telecom,274244190721618,US,www.futurebazar.com,98
+id_1417,TDS Telecom,274244190721618,US,www.flipkart.com,29
+id_1417,TDS Telecom,274244190721618,US,www.ebay.com,68
+id_1417,TDS Telecom,274244190721618,US,www.flipkart.com,37
+id_1417,TDS Telecom,274244190721618,US,www.infibeam.com,91
+id_1417,TDS Telecom,274244190721618,US,www.fasttrack.com,36
+id_1417,TDS Telecom,274244190721618,US,www.ebay.com,25
+id_1417,TDS Telecom,274244190721618,US,www.fasttrack.com,22
+id_1417,TDS Telecom,274244190721618,US,www.fasttrack.com,50
+id_1417,TDS Telecom,274244190721618,US,www.walmart.com,26
+id_1417,TDS Telecom,274244190721618,US,www.snapdeal.com,33
+id_1417,TDS Telecom,274244190721618,US,www.amazon.com,71
+id_1417,TDS Telecom,274244190721618,US,www.mulberry.com,6
+id_1417,TDS Telecom,274244190721618,US,www.infibeam.com,8
+id_1417,TDS Telecom,274244190721618,US,www.fasttrack.com,93
+id_1417,TDS Telecom,274244190721618,US,www.americanowl.com,66
+id_1049,TDS Telecom,162316366240330,US,www.infibeam.com,7
+id_1049,TDS Telecom,162316366240330,US,www.snapdeal.com,50
+id_1049,TDS Telecom,162316366240330,US,www.flipkart.com,14
+id_1049,TDS Telecom,162316366240330,US,www.mulberry.com,97
+id_1049,TDS Telecom,162316366240330,US,www.ebay.com,23
+id_1049,TDS Telecom,162316366240330,US,www.americanowl.com,57
+id_1049,TDS Telecom,162316366240330,US,www.amazon.com,39
+id_1049,TDS Telecom,162316366240330,US,www.fasttrack.com,33
+id_1049,TDS Telecom,162316366240330,US,www.mulberry.com,53
+id_1049,TDS Telecom,162316366240330,US,www.flipkart.com,43
+id_1049,TDS Telecom,162316366240330,US,www.walmart.com,52
+id_1049,TDS Telecom,162316366240330,US,www.fasttrack.com,89
+id_1049,TDS Telecom,162316366240330,US,www.amazon.com,83
+id_1049,TDS Telecom,162316366240330,US,www.amazon.com,77
+id_1049,TDS Telecom,162316366240330,US,www.futurebazar.com,33
+id_1049,TDS Telecom,162316366240330,US,www.americanowl.com,34
+id_1049,TDS Telecom,162316366240330,US,www.americanowl.com,13
+id_1049,TDS Telecom,162316366240330,US,www.amazon.com,59
+id_1049,TDS Telecom,162316366240330,US,www.ebay.com,58
+id_1049,TDS Telecom,162316366240330,US,www.fasttrack.com,25
+id_1049,TDS Telecom,162316366240330,US,www.fasttrack.com,43
+id_4184,MTNL,364961965667142,IN,www.americanowl.com,71
+id_4184,MTNL,364961965667142,IN,www.walmart.com,54
+id_4184,MTNL,364961965667142,IN,www.ebay.com,73
+id_4184,MTNL,364961965667142,IN,www.mulberry.com,93
+id_4184,MTNL,364961965667142,IN,www.mulberry.com,53
+id_4184,MTNL,364961965667142,IN,www.ebay.com,20
+id_4184,MTNL,364961965667142,IN,www.americanowl.com,75
+id_4184,MTNL,364961965667142,IN,www.snapdeal.com,61
+id_4184,MTNL,364961965667142,IN,www.futurebazar.com,6
+id_4184,MTNL,364961965667142,IN,www.fasttrack.com,10
+id_4184,MTNL,364961965667142,IN,www.americanowl.com,61
+id_4184,MTNL,364961965667142,IN,www.walmart.com,69
+id_4184,MTNL,364961965667142,IN,www.snapdeal.com,68
+id_4184,MTNL,364961965667142,IN,www.mulberry.com,53
+id_4184,MTNL,364961965667142,IN,www.amazon.com,99
+id_4184,MTNL,364961965667142,IN,www.flipkart.com,76
+id_4184,MTNL,364961965667142,IN,www.flipkart.com,94
+id_4184,MTNL,364961965667142,IN,www.americanowl.com,52
+id_4184,MTNL,364961965667142,IN,www.mulberry.com,10
+id_4184,MTNL,364961965667142,IN,www.amazon.com,65
+id_4184,MTNL,364961965667142,IN,www.americanowl.com,50
+id_4088,Spectrum Telecom,422147764829135,CH,www.amazon.com,57
+id_4088,Spectrum Telecom,422147764829135,CH,www.mulberry.com,96
+id_4088,Spectrum Telecom,422147764829135,CH,www.amazon.com,96
+id_4088,Spectrum Telecom,422147764829135,CH,www.walmart.com,51
+id_4088,Spectrum Telecom,422147764829135,CH,www.flipkart.com,25
+id_4088,Spectrum Telecom,422147764829135,CH,www.ebay.com,82
+id_4088,Spectrum Telecom,422147764829135,CH,www.mulberry.com,100
+id_4088,Spectrum Telecom,422147764829135,CH,www.mulberry.com,5
+id_4088,Spectrum Telecom,422147764829135,CH,www.mulberry.com,54
+id_4088,Spectrum Telecom,422147764829135,CH,www.americanowl.com,10
+id_4088,Spectrum Telecom,422147764829135,CH,www.flipkart.com,17
+id_4088,Spectrum Telecom,422147764829135,CH,www.amazon.com,83
+id_4088,Spectrum Telecom,422147764829135,CH,www.snapdeal.com,39
+id_4088,Spectrum Telecom,422147764829135,CH,www.americanowl.com,40
+id_4088,Spectrum Telecom,422147764829135,CH,www.infibeam.com,58
+id_4088,Spectrum Telecom,422147764829135,CH,www.americanowl.com,28
+id_4088,Spectrum Telecom,422147764829135,CH,www.amazon.com,63
+id_4088,Spectrum Telecom,422147764829135,CH,www.infibeam.com,31
+id_4088,Spectrum Telecom,422147764829135,CH,www.americanowl.com,30
+id_4088,Spectrum Telecom,422147764829135,CH,www.americanowl.com,53
+id_4088,Spectrum Telecom,422147764829135,CH,www.mulberry.com,70
+id_8602,TIM,651785933639904,BR,www.americanowl.com,57
+id_8602,TIM,651785933639904,BR,www.walmart.com,68
+id_8602,TIM,651785933639904,BR,www.flipkart.com,35
+id_8602,TIM,651785933639904,BR,www.mulberry.com,74
+id_8602,TIM,651785933639904,BR,www.ebay.com,65
+id_8602,TIM,651785933639904,BR,www.walmart.com,70
+id_8602,TIM,651785933639904,BR,www.fasttrack.com,71
+id_8602,TIM,651785933639904,BR,www.americanowl.com,100
+id_8602,TIM,651785933639904,BR,www.infibeam.com,45
+id_8602,TIM,651785933639904,BR,www.infibeam.com,75
+id_8602,TIM,651785933639904,BR,www.infibeam.com,49
+id_8602,TIM,651785933639904,BR,www.amazon.com,49
+id_8602,TIM,651785933639904,BR,www.flipkart.com,6
+id_8602,TIM,651785933639904,BR,www.snapdeal.com,36
+id_8602,TIM,651785933639904,BR,www.walmart.com,93
+id_8602,TIM,651785933639904,BR,www.walmart.com,96
+id_8602,TIM,651785933639904,BR,www.ebay.com,61
+id_8602,TIM,651785933639904,BR,www.walmart.com,62
+id_8602,TIM,651785933639904,BR,www.americanowl.com,86
+id_8602,TIM,651785933639904,BR,www.mulberry.com,93
+id_8602,TIM,651785933639904,BR,www.americanowl.com,55
