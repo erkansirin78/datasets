@@ -3,14 +3,14 @@ DepartmentID,Department,Name,Salary
 40,InsanKaynaklari,Teddy,3747
 10,Muhasebe,Paloma,3833
 40,InsanKaynaklari,Ana,3603
-20,Sales,Claudette,2084
+20,Satis,Claudette,2084
 40,InsanKaynaklari,Naoko,2698
 10,Muhasebe,Bill,2582
 10,Muhasebe,Miwa,2002
 10,Muhasebe,Claudette,3836
 10,Muhasebe,Gordon,3906
-20,Sales,Juan,2627
-20,Sales,Harvey,2655
+20,Satis,Juan,2627
+20,Satis,Harvey,2655
 10,Muhasebe,Kaori,2353
 20,Satis,Alex,2038
 20,Satis,Harvey,2316
