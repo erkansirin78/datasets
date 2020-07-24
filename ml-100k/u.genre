@@ -1,3 +1,4 @@
+genre|genre_id
 unknown|0
 Action|1
 Adventure|2
@@ -17,4 +18,3 @@ Sci-Fi|15
 Thriller|16
 War|17
 Western|18
-
