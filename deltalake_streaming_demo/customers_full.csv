@@ -4,7 +4,7 @@ customerId,customerFName,customerLName,customerCity
 3,Ann,Smith,Caguas
 4,Mary,Jones,San Marcos
 5,Robert,Hudson,Caguas
-6,Mary,Smith,Passaic
+6,Mary,Smith,Ankara
 7,Melissa,Wilcox,Caguas
 8,Megan,Smith,Lawrence
 9,Mary,Perez,Caguas
@@ -32,7 +32,7 @@ customerId,customerFName,customerLName,customerCity
 31,Mary,Byrd,Albuquerque
 32,Alice,Smith,Caguas
 33,Adam,Petersen,Norfolk
-34,Mary,Smith,Caguas
+34,Mary,Smith,Istanbul
 35,Margaret,Wright,Oceanside
 36,Michelle,Carey,Caguas
 37,Virginia,Conrad,Norfolk
@@ -40,9 +40,9 @@ customerId,customerFName,customerLName,customerCity
 39,Juan,Mckinney,Caguas
 40,Mary,Smith,Long Beach
 41,Victoria,Mason,Brooklyn
-42,Ethan,Smith,Duluth
+42,Ethan,Smith,Konya
 43,Mary,Herring,Caguas
-44,Howard,Smith,Napa
+44,Howard,Smith,Malatya
 45,Mary,Nunez,Denver
 46,Jennifer,Smith,Freeport
 47,Lori,Fuller,Caguas
@@ -79,7 +79,7 @@ customerId,customerFName,customerLName,customerCity
 78,Jeremy,Smith,Parkville
 79,Mary,Watkins,Knoxville
 80,Joe,Parsons,Caguas
-81,Mary,Smith,Ithaca
+81,Mary,Smith,Bartın
 82,Jonathan,Cook,San Antonio
 83,Mary,Wong,Caguas
 84,Douglas,Smith,Tampa
@@ -109,7 +109,7 @@ customerId,customerFName,customerLName,customerCity
 108,Joshua,Smith,Bronx
 109,Mary,Thompson,Caguas
 110,David,Miranda,Beaverton
-111,Frank,Smith,Caguas
+111,Frank,Smith,Kuala Lumpur
 112,Mary,Daniels,Middletown
 113,Patricia,Smith,Caguas
 114,Alice,Warner,Bellflower
@@ -126,7 +126,7 @@ customerId,customerFName,customerLName,customerCity
 125,Mary,Gallagher,Oxnard
 126,Austin,Smith,Amarillo
 127,Mary,Martin,Caguas
-128,Rose,Lopez,Augusta
+128,Rose,Lopez,Çorum
 129,Crystal,Smith,Caguas
 130,Mary,Holland,Aurora
 131,Brenda,Cline,Methuen
@@ -3545,7 +3545,7 @@ customerId,customerFName,customerLName,customerCity
 3544,Danielle,Smith,Bismarck
 3545,Austin,Guzman,Rochester
 3546,Mary,Cannon,Caguas
-3547,Rebecca,Waller,South San Francisco
+3547,Rebecca,Waller,Sivas Şarkışla
 3548,Mary,Smith,San Diego
 3549,Adam,Morris,Caguas
 3550,Mary,Garner,Philadelphia
@@ -3607,7 +3607,7 @@ customerId,customerFName,customerLName,customerCity
 3606,Joan,Strickland,New York
 3607,Marie,Smith,Caguas
 3608,Mary,Rogers,Brooklyn
-3609,James,Waters,Hollywood
+3609,James,Waters,Sincan Peçenek
 3610,Jordan,Smith,Stafford
 3611,Mary,Mitchell,Caguas
 3612,Gregory,Cox,Aurora
@@ -3648,7 +3648,7 @@ customerId,customerFName,customerLName,customerCity
 3647,Grace,Moore,Cumberland
 3648,Mary,Parker,Caguas
 3649,Andrew,Nguyen,Union City
-3650,Wayne,Smith,Pompano Beach
+3650,Wayne,Smith,Van Çaldıran
 3651,Mary,Sanders,San Antonio
 3652,Ann,Esparza,Caguas
 3653,Peter,Smith,Princeton
@@ -3702,7 +3702,7 @@ customerId,customerFName,customerLName,customerCity
 3701,Bryan,Foster,Hollywood
 3702,Mary,Smith,Caguas
 3703,Christine,Reynolds,Baldwin Park
-3704,Mary,Smith,Chandler
+3704,Mary,Smith,Bingöl Yumaklı
 3705,Lisa,Smith,Caguas
 3706,Ashley,Fitzgerald,Columbus
 3707,Mary,Smith,Caguas
