@@ -1,0 +1,25 @@
+Michael|100|Montreal,Toronto|Male,30|DB:80|Product:DeveloperLead
+Will|101|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Steven|102|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Lucy|103|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Mike|104|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Shelley|105|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Luly|106|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Lily|107|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Shell|108|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Mich|109|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Dayong|110|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Sara|111|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Roman|112|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Christine|113|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Eman|114|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Alex|115|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Alan|116|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Andy|117|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Ryan|118|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Rome|119|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Lym|120|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Linm|121|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
+Dach|122|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Ilon|123|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Elaine|124|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead

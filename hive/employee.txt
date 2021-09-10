@@ -1,0 +1,4 @@
+Michael|Montreal,Toronto|Male,30|DB:80|Product:DeveloperLead
+Will|Montreal|Male,35|Perl:85|Product:Lead,Test:Lead
+Shelley|New York|Female,27|Python:80|Test:Lead,COE:Architect
+Lucy|Vancouver|Female,57|Sales:89,HR:94|Sales:Lead
